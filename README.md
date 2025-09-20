@@ -14,7 +14,7 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. all you need to do is call the function.
+1. to run the function, you need to type "dotnet run" into the terminal.
 
 ## Development Environment 
 
